@@ -24,8 +24,7 @@ in HuckerRank website and some other problems
 
 <hr style="background-color: #4b4c60"></hr>
 
-## <img  align="center" width= 70px height =70px src="https://media4.giphy.com/media/KSqhV4hZgGYfA5nA2N/giphy.gif?cid=790b7611127431182d53e6b7cda389f73e6bb53224059bb4&rid=giphy.gif&ct=s"> problems and solution  <a id ="problems"></a>
-
+## <img  align="center" width= 70px height =70px src="https://media4.giphy.com/media/KSqhV4hZgGYfA5nA2N/giphy.gif?cid=790b7611127431182d53e6b7cda389f73e6bb53224059bb4&rid=giphy.gif&ct=s"> Problems and Solutions  <a id ="problems"></a>
 <table>
   <tr>
      <td align="center"><a target="_blank" href="https://www.hackerrank.com/contests/cmp2030-fall2021-lab0/challenges"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="150px;" alt=""/><br /><sub><b>Lab 0</b></sub></a><br /></td>
