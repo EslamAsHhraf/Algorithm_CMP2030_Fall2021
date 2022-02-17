@@ -1,0 +1,4 @@
+﻿  sort.cpp
+c:\users\eslam ashraf\onedrive - cairo university - students\desktop\algorithms\hw 2\sort\sort\selection_sort.h(6): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\eslam ashraf\onedrive - cairo university - students\desktop\algorithms\hw 2\sort\sort\insetion_sort.h(6): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  sort.vcxproj -> C:\Users\Eslam Ashraf\OneDrive - Cairo University - Students\Desktop\Algorithms\HW 2\sort\x64\Debug\sort.exe

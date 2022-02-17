@@ -1,0 +1,9 @@
+python testData.py data.txt output.txt time.txt output.exe 
+
+//////////
+
+g++ –o output sort.cpp
+output.exe 3 data.txt output.txt time.txt
+
+///
+python runscript.py 500000 data.txt
