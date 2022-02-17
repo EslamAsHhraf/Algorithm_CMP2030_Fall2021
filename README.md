@@ -1,6 +1,8 @@
 # Algorithm CMP2030 Fall2021
 <div align="center">
-<img   width= 450px height =300px src="https://i.gifer.com/QFLl.gif">
+
+<img width= 450px height =300px src="https://user-images.githubusercontent.com/71986226/154510384-f02decea-a93b-4cb4-9633-a6aa5c87d198.gif">
+  
 </div>
 
 <hr style="background-color: #4b4c60"></hr>
