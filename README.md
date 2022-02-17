@@ -37,7 +37,7 @@ in HuckerRank website and some other problems
   </tr>
   <tr>
     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Algorithm_CMP2030_Fall2021/tree/main/Questions/Lab%202"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="150px;" alt=""/><br /><sub><b>Lab 2</b></sub></a><br /></td>
-     <td align="center"><a target="_blank" href=https://github.com/EslamAsHhraf/Algorithm_CMP2030_Fall2021/tree/main/Solutions/Lab%202"><img src="https://www.successfactor.co.nz/wp-content/uploads/2020/10/28-October-Solution-Problem.jpg" width="150px;" alt=""/><br /><sub><b>Sol lab 2</b></sub></a><br /></td>
+     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Algorithm_CMP2030_Fall2021/tree/main/Solutions/Lab%202"><img src="https://www.successfactor.co.nz/wp-content/uploads/2020/10/28-October-Solution-Problem.jpg" width="150px;" alt=""/><br /><sub><b>Sol lab 2</b></sub></a><br /></td>
   </tr>
   <tr>
     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Algorithm_CMP2030_Fall2021/tree/main/Questions/Lab%203"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="150px;" alt=""/><br /><sub><b>Lab 3</b></sub></a><br /></td>
