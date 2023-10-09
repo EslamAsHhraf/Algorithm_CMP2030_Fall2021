@@ -1,4 +1,4 @@
-# Algorithm CMP2030 Fall2021
+# 🖥️ Algorithm CMP2030 Fall2021
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/71986226/154510384-f02decea-a93b-4cb4-9633-a6aa5c87d198.gif">
@@ -7,7 +7,7 @@
 
 <hr style="background-color: #4b4c60"></hr>
 
-## <img align= center width=60px height=60px src="https://media0.giphy.com/media/HYYbdk46gUzrgWi1Iz/giphy.gif?cid=790b76111ce53e2dd3bc5000974bf5cf420b2c9dcbad7282&rid=giphy.gif&ct=g"> Table of Contents
+## 📝 Table of Contents
 
 - <a href ="#about"> 📙 About</a>
 - <a href ="#problems"> 💻 problems and solution</a>
@@ -15,7 +15,7 @@
 <hr style="background-color: #4b4c60"></hr>
 
 
-## <img align="center"  height =60px src="https://i.pinimg.com/originals/83/23/61/83236186c07e9ee1d3ac6094209f5cb0.gif"> About <a id = "about"></a>
+## 📙 About <a id = "about"></a>
 
 <p> 
 Solution of problems in cousre Algorithm CMP2030 Fall2021
